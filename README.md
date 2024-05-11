@@ -1,12 +1,14 @@
 # Thyristor-Triac-Tester
 
 Original Text:
+
 Dieses Testgerät kann Thyristoren und Triacs bis zu hohen Zündströmen testen.
 
 Grösste Baustelle ist noch die Distanzerhöhung des IC Testsockels. Dieser sollte höher als das Display sein.
 Leider greiffen die kurzen Beinchen nicht stabil genug in einem Pinheader.
 
 English (DeepL translator):
+
 This tester can test thyristors and triacs up to high ignition currents.
 
 Everything works so far.
