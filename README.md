@@ -14,7 +14,7 @@ Die Schaltkreise und PCB Layouts sind mit Target3001 erstellt worden.
 
 Der StepUp ist auf 18V zustellen.
 
-Ich habe zwar noch rote PCBs V1.0 auf Lager. Falls eine grössere Sammelbestellung zustande kommt, werde ich V1.1 PCBs in Auftrag geben.
+Ich habe zwar noch rote PCBs V1.0 auf Lager. Falls eine grössere Sammelbestellung zustande kommt, werde ich V1.1 PCBs in Auftrag geben. Ich werde dann auch die Zwischen-PCBs für den IC Testsockel bestellen.
 
 ## English (DeepL translator):
 
@@ -31,7 +31,7 @@ The circuits and PCB layouts have been created with Target3001.
 
 The StepUp must be set to 18V.
 
-I still have red PCBs V1.0 in stock. If a larger collective order is placed, I will order V1.1 PCBs.
+I still have red PCBs V1.0 in stock. If a larger collective order is placed, I will order V1.1 PCBs. I will then also order the intermediate PCBs for the IC test socket.
 
 
 ## Stückliste:
