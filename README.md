@@ -16,6 +16,8 @@ Der StepUp ist auf 18V zustellen.
 
 Ich habe zwar noch rote PCBs V1.0 auf Lager. Falls eine grössere Sammelbestellung zustande kommt, werde ich V1.1 PCBs in Auftrag geben. Ich werde dann auch die Zwischen-PCBs für den IC Testsockel bestellen.
 
+Dieses Projekt ist hier zuhause: https://www.ltspiceusers.ch/threads/baue-mir-einen-thyristor-triac-tester-mit-einem-esp8266-mit-oled-display.2739/#post-5482
+
 ## English (DeepL translator):
 
 This tester can test thyristors and triacs up to high ignition currents.
@@ -32,6 +34,8 @@ The circuits and PCB layouts have been created with Target3001medium and can be 
 The StepUp must be set to 18V.
 
 I still have red PCBs V1.0 in stock. If a larger collective order is placed, I will order V1.1 PCBs. I will then also order the intermediate PCBs for the IC test socket.
+
+This project is here @home: https://www.ltspiceusers.ch/threads/baue-mir-einen-thyristor-triac-tester-mit-einem-esp8266-mit-oled-display.2739/#post-5482
 
 
 ## Stückliste:
