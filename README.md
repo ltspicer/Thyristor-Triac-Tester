@@ -14,6 +14,8 @@ Die Schaltkreise und PCB Layouts sind mit Target3001 erstellt worden.
 
 Der StepUp ist auf 18V zustellen.
 
+Ich habe zwar noch rote PCBs V1.0 auf Lager. Falls eine grössere Sammelbestellung zustande kommt, werde ich V1.1 PCBs in Auftrag geben.
+
 ## English (DeepL translator):
 
 This tester can test thyristors and triacs up to high ignition currents.
@@ -28,6 +30,8 @@ Without the housing, the IC test socket can be soldered directly onto the PCB.
 The circuits and PCB layouts have been created with Target3001.
 
 The StepUp must be set to 18V.
+
+I still have red PCBs V1.0 in stock. If a larger collective order is placed, I will order V1.1 PCBs.
 
 
 ## Stückliste:
