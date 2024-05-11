@@ -10,7 +10,7 @@ Leider greiffen die kurzen Beinchen nicht stabil genug in einem Pinheader.
 Die Zwischenplatte ist nur, um den IC Testsockel auf ein Niveau höher als das Display zu bringen.
 Ohne Gehäuse kann der IC Testsockel direkt auf das PCB gelötet werden.
 
-Die Schaltkreise und PCB Layouts sind mit Target3001 erstellt worden.
+Die Schaltkreise und PCB Layouts sind mit Target3001medium erstellt worden und können mit Target3001discover geöffnet werden. Target3001discover ist kostenlos!
 
 Der StepUp ist auf 18V zustellen.
 
@@ -27,7 +27,7 @@ Unfortunately, the short legs do not grip firmly enough in a pin header.
 The intermediate plate is only to bring the IC test socket to a level higher than the display.
 Without the housing, the IC test socket can be soldered directly onto the PCB.
 
-The circuits and PCB layouts have been created with Target3001.
+The circuits and PCB layouts have been created with Target3001medium and can be opened with Target3001discover. Target3001discover is free!
 
 The StepUp must be set to 18V.
 
