@@ -12,6 +12,8 @@ Ohne Gehäuse kann der IC Testsockel direkt auf das PCB gelötet werden.
 
 Die Schaltkreise und PCB Layouts sind mit Target3001 erstellt worden.
 
+Der StepUp ist auf 18V zustellen.
+
 ## English (DeepL translator):
 
 This tester can test thyristors and triacs up to high ignition currents.
@@ -24,6 +26,8 @@ The intermediate plate is only to bring the IC test socket to a level higher tha
 Without the housing, the IC test socket can be soldered directly onto the PCB.
 
 The circuits and PCB layouts have been created with Target3001.
+
+The StepUp must be set to 18V.
 
 
 ## Stückliste:
