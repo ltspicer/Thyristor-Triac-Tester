@@ -1,3 +1,7 @@
+// Thyristor/Triac Tester
+// Daniel Luginbühl
+// (C) 2024
+
 // https://github.com/olikraus/u8g2/wiki
 
 #include <Arduino.h>
