@@ -20,8 +20,7 @@ Unfortunately, the short legs do not grip firmly enough in a pin header.
 The circuits and PCB layouts have been created with Target3001.
 
 
-Stückliste:
-===========
+## Stückliste:
 
 1x  ESP8266 NodeMCU mit OLED        https://de.aliexpress.com/item/1005005470719229.html
 
