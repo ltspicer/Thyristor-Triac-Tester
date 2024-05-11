@@ -90,3 +90,6 @@ This project is here @home: https://www.ltspiceusers.ch/threads/baue-mir-einen-t
 1x  Widerstand 22 Ohm
 
 Pinleiste 1 reihig zuschneidbar (für StepUp, IC Testsockel und optionale Testpins)
+
+
+Die Bauteile kosten keine 20€ (exkl Batterie, die ist wohl das teuerste Bauteil)!
