@@ -1,6 +1,6 @@
 // Thyristor/Triac Tester
 // Daniel Luginbühl
-// (C) 2024
+// V1.1 (C) 2024
 
 // https://github.com/olikraus/u8g2/wiki
 
