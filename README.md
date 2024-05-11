@@ -22,7 +22,6 @@ Dieses Projekt ist hier zuhause: https://www.ltspiceusers.ch/threads/baue-mir-ei
 
 This tester can test thyristors and triacs up to high ignition currents.
 
-Everything works so far.
 The biggest problem is increasing the distance of the IC test socket. This should be higher than the display.
 Unfortunately, the short legs do not grip firmly enough in a pin header.
 
