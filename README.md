@@ -7,6 +7,9 @@ Dieses Testgerät kann Thyristoren und Triacs bis zu hohen Zündströmen testen.
 Grösste Baustelle ist noch die Distanzerhöhung des IC Testsockels. Dieser sollte höher als das Display sein.
 Leider greiffen die kurzen Beinchen nicht stabil genug in einem Pinheader.
 
+Die Zwischenplatte ist nur, um den IC Testsockel auf ein Niveau höher als das Display zu bringen.
+Ohne Gehäuse kann der IC Testsockel direkt auf das PCB gelötet werden.
+
 Die Schaltkreise und PCB Layouts sind mit Target3001 erstellt worden.
 
 ## English (DeepL translator):
@@ -16,6 +19,9 @@ This tester can test thyristors and triacs up to high ignition currents.
 Everything works so far.
 The biggest problem is increasing the distance of the IC test socket. This should be higher than the display.
 Unfortunately, the short legs do not grip firmly enough in a pin header.
+
+The intermediate plate is only to bring the IC test socket to a level higher than the display.
+Without the housing, the IC test socket can be soldered directly onto the PCB.
 
 The circuits and PCB layouts have been created with Target3001.
 
