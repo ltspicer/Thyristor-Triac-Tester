@@ -1,6 +1,6 @@
 # Thyristor-Triac-Tester
 
-Original Text:
+## Original Text:
 
 Dieses Testgerät kann Thyristoren und Triacs bis zu hohen Zündströmen testen.
 
@@ -9,7 +9,7 @@ Leider greiffen die kurzen Beinchen nicht stabil genug in einem Pinheader.
 
 Die Schaltkreise und PCB Layouts sind mit Target3001 erstellt worden.
 
-English (DeepL translator):
+## English (DeepL translator):
 
 This tester can test thyristors and triacs up to high ignition currents.
 
