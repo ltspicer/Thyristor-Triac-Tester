@@ -92,4 +92,4 @@ This project is here @home: https://www.ltspiceusers.ch/threads/baue-mir-einen-t
 Pinleiste 1 reihig zuschneidbar (für StepUp, IC Testsockel und optionale Testpins)
 
 
-Die Bauteile kosten keine 20€ (exkl Batterie, die ist wohl das teuerste Bauteil)!
+### Die Bauteile kosten keine 20€ (exkl Batterie. Die ist wohl das teuerste Bauteil)!
