@@ -1,9 +1,5 @@
 # Thyristor-Triac-Tester
 
-![]((https://github.com/ltspicer/Thyristor-Triac-Tester/blob/main/aufbau3.jpg))
-
-![]((https://github.com/ltspicer/Thyristor-Triac-Tester/blob/main/esp_test.jpg))
-
 
 ## Original Text:
 
