@@ -93,6 +93,8 @@ The 2 zip are the Gerber files.
 
 1x  Widerstand 22 Ohm
 
+2x  Pinheader 7pol weiblich (für IC Testsockel)
+
 Pinleiste 1 reihig zuschneidbar (für StepUp, IC Testsockel und optionale Testpins)
 
 
