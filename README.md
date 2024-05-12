@@ -17,7 +17,7 @@ Ohne Gehäuse kann der IC Testsockel direkt auf das PCB gelötet werden.
 
 Die Schaltkreise und PCB Layouts sind mit Target3001medium erstellt worden und können mit Target3001discover geöffnet werden. Target3001discover ist kostenlos!
 
-Der StepUp ist auf 18V zustellen.
+Der StepUp ist auf **18V** zustellen.
 
 Ich habe zwar noch rote PCBs V1.0 auf Lager (für Interessenten). Falls aber eine grössere Sammelbestellung zustande kommt, werde ich V1.1 PCBs in Auftrag geben. Ich werde dann auch die Zwischen-PCBs für den IC Testsockel bestellen.
 
@@ -37,7 +37,7 @@ Without the housing, the IC test socket can be soldered directly onto the PCB.
 
 The circuits and PCB layouts have been created with Target3001medium and can be opened with Target3001discover. Target3001discover is free!
 
-The StepUp must be set to 18V.
+The StepUp must be set to **18V**.
 
 I still have red PCBs V1.0 in stock (for interested parties). However, if a larger collective order is placed, I will order V1.1 PCBs. I will then also order the intermediate PCBs for the IC test socket.
 
