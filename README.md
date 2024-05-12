@@ -19,6 +19,8 @@ Ich habe zwar noch rote PCBs V1.0 auf Lager (für Interessenten). Falls aber ein
 
 Dieses Projekt ist hier zuhause: https://www.ltspiceusers.ch/threads/baue-mir-einen-thyristor-triac-tester-mit-einem-esp8266-mit-oled-display.2739/#post-5482
 
+Die 2 zip sind die Gerber Dateien.
+
 ## English (DeepL translator):
 
 This tester can test thyristors and triacs up to high ignition currents.
@@ -37,6 +39,7 @@ I still have red PCBs V1.0 in stock (for interested parties). However, if a larg
 
 This project is here @home: https://www.ltspiceusers.ch/threads/baue-mir-einen-thyristor-triac-tester-mit-einem-esp8266-mit-oled-display.2739/#post-5482
 
+The 2 zip are the Gerber files.
 
 ## Stückliste:
 
