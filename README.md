@@ -1,8 +1,8 @@
 # Thyristor-Triac-Tester
 
-![](https://github.com/ltspicer/Thyristor-Triac-Tester/blob/main/inbetrieb1.jpg))
+![](https://github.com/ltspicer/Thyristor-Triac-Tester/blob/main/inbetrieb1.jpg)
 
-![](https://github.com/ltspicer/Thyristor-Triac-Tester/blob/main/inbetrieb2.jpg))
+![](https://github.com/ltspicer/Thyristor-Triac-Tester/blob/main/inbetrieb2.jpg)
 
 
 ## Original Text:
