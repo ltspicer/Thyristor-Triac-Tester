@@ -2,6 +2,11 @@
 
 ![](https://github.com/ltspicer/Thyristor-Triac-Tester/blob/main/gehaeuse5.jpg)
 
+![](https://github.com/ltspicer/Thyristor-Triac-Tester/blob/main/gehaeuse6.jpg)
+
+![](https://github.com/ltspicer/Thyristor-Triac-Tester/blob/main/gehaeuse7.jpg)
+
+
 ![](https://github.com/ltspicer/Thyristor-Triac-Tester/blob/main/inbetrieb1.jpg)
 
 ![](https://github.com/ltspicer/Thyristor-Triac-Tester/blob/main/inbetrieb2.jpg)
