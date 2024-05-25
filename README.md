@@ -15,6 +15,8 @@
 
 Dieses Testgerät kann Thyristoren und Triacs bis zu hohen Zündströmen testen.
 
+Thyristoren und Triacs testen ist das Einzige, was der LCR-TC2 ( https://de.aliexpress.com/item/1005004205300336.html ) nicht kann.
+
 Grösste Baustelle ist noch die Distanzerhöhung des IC Testsockels. Dieser sollte höher als das Display sein.
 Leider greiffen die kurzen Beinchen nicht stabil genug in einem Pinheader.
 
@@ -38,6 +40,8 @@ Falls ein Triac als Thyristor erkannt wird, ist dieser Triac defekt!
 ## English (DeepL translator):
 
 This tester can test thyristors and triacs up to high ignition currents.
+
+Testing thyristors and triacs is the only thing the LCR-TC2 ( https://de.aliexpress.com/item/1005004205300336.html ) cannot do.
 
 The biggest problem is increasing the distance of the IC test socket. This should be higher than the display.
 Unfortunately, the short legs do not grip firmly enough in a pin header.
