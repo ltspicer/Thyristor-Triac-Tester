@@ -43,7 +43,7 @@ The circuits and PCB layouts have been created with Target3001medium and can be 
 
 The StepUp must be set to **18V**.
 
-The ino file must be written to the ESP8266 using the Arduino IDE.
+The ino file must be written to the ESP8266 using Arduino IDE.
 
 I still have red PCBs V1.0 in stock (for interested parties). However, if a larger collective order is placed, I will order V1.1 PCBs. I will then also order the intermediate PCBs for the IC test socket.
 
