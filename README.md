@@ -21,6 +21,8 @@ Die Schaltkreise und PCB Layouts sind mit Target3001medium erstellt worden und k
 
 Der StepUp ist auf **18V** zustellen.
 
+Die ino Datei ist mittels Arduino IDE auf den ESP8266 zuschreiben.
+
 Ich habe zwar noch rote PCBs V1.0 auf Lager (für Interessenten). Falls aber eine grössere Sammelbestellung zustande kommt, werde ich V1.1 PCBs in Auftrag geben. Ich werde dann auch die Zwischen-PCBs für den IC Testsockel bestellen.
 
 Dieses Projekt ist hier zuhause: https://www.ltspiceusers.ch/threads/baue-mir-einen-thyristor-triac-tester-mit-einem-esp8266-mit-oled-display.2739/#post-5482
@@ -40,6 +42,8 @@ Without the housing, the IC test socket can be soldered directly onto the PCB.
 The circuits and PCB layouts have been created with Target3001medium and can be opened with Target3001discover. Target3001discover is free!
 
 The StepUp must be set to **18V**.
+
+The ino file must be written to the ESP8266 using the Arduino IDE.
 
 I still have red PCBs V1.0 in stock (for interested parties). However, if a larger collective order is placed, I will order V1.1 PCBs. I will then also order the intermediate PCBs for the IC test socket.
 
