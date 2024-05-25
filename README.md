@@ -87,7 +87,7 @@ If a triac is recognized as a thyristor, this triac is defective!
 
 5x  2N7000 Kleinleistungs-FET
 
-3x  1N4007 Diode (oder ähnlich)
+3x  1N4007 Diode (oder ähnlich. Nur für Freilauf)
 
 2x  IC Sockel DIP6
 
