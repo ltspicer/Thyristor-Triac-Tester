@@ -29,6 +29,8 @@ Dieses Projekt ist hier zuhause: https://www.ltspiceusers.ch/threads/baue-mir-ei
 
 Die **2 zip** sind die **Gerber** Dateien.
 
+Falls ein Triac als Thyristor erkannt wird, ist dieser Triac defekt!
+
 ## English (DeepL translator):
 
 This tester can test thyristors and triacs up to high ignition currents.
@@ -50,6 +52,10 @@ I still have red PCBs V1.0 in stock (for interested parties). However, if a larg
 This project is here @home: https://www.ltspiceusers.ch/threads/baue-mir-einen-thyristor-triac-tester-mit-einem-esp8266-mit-oled-display.2739/#post-5482
 
 The **2 zip** are the **Gerber** files.
+
+If a triac is recognized as a thyristor, this triac is defective!
+
+--------------------------------
 
 ## Stückliste:
 
